@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\AssetPipeline\\created_idea_009_delivery-package-evidence-generator",
+  "zip": "D:\\AI\\AssetPipeline\\created_idea_009_delivery-package-evidence-generator\\idea_009_delivery-package-evidence-generator.zip",
+  "rank": 24,
+  "domain": "AssetPipeline",
+  "ideaNo": 9,
+  "title": "納品パッケージ・説明書・証跡生成",
+  "overview": "納品パッケージ、サンプル、操作説明、検品結果、リリース証跡をまとめて生成する。",
+  "problem": "アセットはファイルだけでなく、説明、サンプル、検査結果、公開証跡までそろえる必要がある。",
+  "differentiation": "制作物、説明書、検品結果、リリースノートを同じ納品単位で出力する。"
+}
