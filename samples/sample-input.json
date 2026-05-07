@@ -1,0 +1,19 @@
+{
+  "product": {
+    "repository": "delivery-package-evidence-generator",
+    "title": "納品パッケージ・説明書・証跡生成"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "納品パッケージ・説明書・証跡生成 正常ケース",
+      "source": "source-ok",
+      "packagePath": "packagePath-ok",
+      "readme": "readme-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "checksum": "ready"
+    }
+  ]
+}
