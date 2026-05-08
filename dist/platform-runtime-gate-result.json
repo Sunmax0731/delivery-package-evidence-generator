@@ -1,0 +1,8 @@
+{
+  "product": "delivery-package-evidence-generator",
+  "platformType": "cli-release-tool",
+  "pass": true,
+  "method": "runtime-gate",
+  "manualTest": "not-run-by-codex",
+  "packageTest": true
+}
