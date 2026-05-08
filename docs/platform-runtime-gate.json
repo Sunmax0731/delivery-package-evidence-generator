@@ -1,0 +1,11 @@
+{
+  "product": "delivery-package-evidence-generator",
+  "title": "納品パッケージ・説明書・証跡生成",
+  "domain": "AssetPipeline",
+  "ideaNo": 9,
+  "platformType": "cli-release-tool",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
